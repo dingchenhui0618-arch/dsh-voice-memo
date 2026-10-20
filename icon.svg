@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Voice Memo">
+  <rect width="64" height="64" rx="14" fill="#0b1220"/>
+  <path d="M32 13a7 7 0 0 1 7 7v10a7 7 0 0 1-14 0V20a7 7 0 0 1 7-7Z" fill="#7dd3fc"/>
+  <path d="M21 30v1a11 11 0 0 0 22 0v-1" fill="none" stroke="#7dd3fc" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M32 42v6" stroke="#7dd3fc" stroke-width="2.6" stroke-linecap="round"/>
+  <g fill="#818cf8">
+    <rect x="12" y="46" width="2.4" height="6" rx="1.2"/>
+    <rect x="17" y="43" width="2.4" height="12" rx="1.2"/>
+    <rect x="22" y="47" width="2.4" height="4" rx="1.2"/>
+    <rect x="27" y="44" width="2.4" height="10" rx="1.2"/>
+    <rect x="32" y="46" width="2.4" height="6" rx="1.2"/>
+    <rect x="37" y="42" width="2.4" height="14" rx="1.2"/>
+    <rect x="42" y="46" width="2.4" height="6" rx="1.2"/>
+    <rect x="47" y="44" width="2.4" height="10" rx="1.2"/>
+    <rect x="52" y="47" width="2.4" height="4" rx="1.2"/>
+  </g>
+</svg>

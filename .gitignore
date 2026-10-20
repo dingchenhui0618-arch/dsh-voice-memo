@@ -1,0 +1,12 @@
+node_modules/
+*.log
+*.tmp
+
+# Memos a developer records while working on the plugin land here by default.
+# Screenshots and waveform examples under docs/ are committed on purpose.
+voice-memos/
+
+# Local verification workspace: real ASR run, screenshots' source memos, dev
+# helpers. Nothing in here belongs to the published plugin.
+demo-workspace/
+.dev/

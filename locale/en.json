@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Voice Memo",
+    "description": "Hold to talk: record locally, transcribe with timestamps, and archive a waveform image plus a quotable markdown note into the current workspace."
+  }
+}

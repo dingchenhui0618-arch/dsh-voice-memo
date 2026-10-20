@@ -1,0 +1,6 @@
+# src/ is hand-written; lib/ is the dependency-free build output. Both are committed.
+# Keep LF so checkouts on other machines do not show whole-file diffs.
+* text=auto eol=lf
+*.png binary
+*.wav binary
+*.ico binary
