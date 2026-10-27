@@ -1,8 +1,16 @@
 # dsh-voice-memo
 
+[![CI](https://github.com/dingchenhui0618-arch/dsh-voice-memo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/dingchenhui0618-arch/dsh-voice-memo/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > 按住说话录一段，本地转写出带时间戳的分段文本，生成一张波形图和一个 markdown 笔记落到仓库里 —— 可回听、可引用、可进交付文档。
 
 DeepSeek Harness（DSH）插件。给会话加一个「口述」Tab：录完的每一段都变成工作区里**可归档、可引用、带视觉证据**的一条笔记，而不是只在聊天里闪一下的转写结果。
+
+> 用着还行的话，点个 ⭐ 就够了——插件市场的「搜插件」按 GitHub star 排序，star 是这个插件能被人翻到的唯一杠杆。
+
+安全模型——录音写到哪个目录、转写什么时候真的在本地、音频会不会进模型上下文：
+[SECURITY.md](SECURITY.md)。
 
 ![口述面板（深色主题）](docs/screenshot-dark.png)
 

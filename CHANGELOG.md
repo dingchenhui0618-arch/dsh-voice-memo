@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased]
+
+### 文档与工程
+
+- 新增 `SECURITY.md`：写清录音默认写进 `<工作区>/voice-memos/<id>/`（同 id 不覆盖、失败时只删
+  自己刚建的目录）、`harness` 引擎优先 `host-local` 但可能退回远端 provider、`command` 引擎
+  走临时目录 + argv 无 shell、路由没有独立 token、音频会进模型上下文。
+- 新增 `screenshots.json`：声明 `docs/` 下三张真实截图/波形图，市场卡片按这个顺序展示。
+- CI 补 `permissions: contents: read`、`lib/` 与 `src/` 一致性断言，并加 windows-latest 到矩阵。
+- README 顶部加 CI 与 license badge，引言后加一句 star 引导。没有加 npm badge——这个包没有
+  发布到 npm。
+
 ## 0.1.0 — 2026-10-20
 
 首次发布。
